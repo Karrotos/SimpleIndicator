@@ -1,0 +1,4 @@
+name: SimpleIndicator
+version: '${version}'
+main: org.karrotos.me.simpleindicator.SimpleIndicator
+api-version: '1.20'

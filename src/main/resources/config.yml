@@ -1,0 +1,9 @@
+#
+# SimpleIndicator, a light-weight, simple to use damage indicator plugin.
+#
+# Formatting of text is using the MiniMessage API, please refer to: https://docs.advntr.dev/minimessage/format.html (For styling of text)
+#
+
+splashText: "<red>⚔<white>%damage%<red>⚔" # Styling is using the MiniMessage API please refer to the docs for easy to use JSON styling of text!
+damageFormat: "#.#" # '#' means number so, #.# will result in 1.2 if the damage was a float.
+delayToRemove: 1.5 # In seconds
